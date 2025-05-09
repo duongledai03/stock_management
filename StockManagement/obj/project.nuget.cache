@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "um7xtRkljTmL34Zwq46CqvmxeZLjeA/hCc5TfxF6aUz/9rtITDOUSULTJzYgD5jf1Yzcr09rShQUPrALdjNKig==",
+  "success": true,
+  "projectFilePath": "/Users/duongledai/Desktop/StockManagement 3/StockManagement/StockManagement.csproj",
+  "expectedPackageFiles": [
+    "/Users/duongledai/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/duongledai/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.32/microsoft.netcore.app.host.osx-x64.3.1.32.nupkg.sha512",
+    "/Users/duongledai/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

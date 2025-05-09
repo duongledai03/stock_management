@@ -1,0 +1,14 @@
+/Users/duongledai/Desktop/StockManagement 3/StockManagement/bin/Debug/netcoreapp3.1/StockManagement
+/Users/duongledai/Desktop/StockManagement 3/StockManagement/bin/Debug/netcoreapp3.1/StockManagement.deps.json
+/Users/duongledai/Desktop/StockManagement 3/StockManagement/bin/Debug/netcoreapp3.1/StockManagement.runtimeconfig.json
+/Users/duongledai/Desktop/StockManagement 3/StockManagement/bin/Debug/netcoreapp3.1/StockManagement.runtimeconfig.dev.json
+/Users/duongledai/Desktop/StockManagement 3/StockManagement/bin/Debug/netcoreapp3.1/StockManagement.dll
+/Users/duongledai/Desktop/StockManagement 3/StockManagement/bin/Debug/netcoreapp3.1/StockManagement.pdb
+/Users/duongledai/Desktop/StockManagement 3/StockManagement/obj/Debug/netcoreapp3.1/StockManagement.csproj.AssemblyReference.cache
+/Users/duongledai/Desktop/StockManagement 3/StockManagement/obj/Debug/netcoreapp3.1/StockManagement.GeneratedMSBuildEditorConfig.editorconfig
+/Users/duongledai/Desktop/StockManagement 3/StockManagement/obj/Debug/netcoreapp3.1/StockManagement.AssemblyInfoInputs.cache
+/Users/duongledai/Desktop/StockManagement 3/StockManagement/obj/Debug/netcoreapp3.1/StockManagement.AssemblyInfo.cs
+/Users/duongledai/Desktop/StockManagement 3/StockManagement/obj/Debug/netcoreapp3.1/StockManagement.csproj.CoreCompileInputs.cache
+/Users/duongledai/Desktop/StockManagement 3/StockManagement/obj/Debug/netcoreapp3.1/StockManagement.dll
+/Users/duongledai/Desktop/StockManagement 3/StockManagement/obj/Debug/netcoreapp3.1/StockManagement.pdb
+/Users/duongledai/Desktop/StockManagement 3/StockManagement/obj/Debug/netcoreapp3.1/StockManagement.genruntimeconfig.cache
